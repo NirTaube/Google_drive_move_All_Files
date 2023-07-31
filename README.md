@@ -1,19 +1,4 @@
 # Google Drive File Mover
-
-## Description
-This Python script allows you to move all files from the root directory of your Google Drive to an existing folder named "FILES." The script authenticates with the Google Drive API using OAuth 2.0 and then moves the files to the target folder.
-
-## Prerequisites
-- Python 3.x
-- `google-api-python-client` library (can be installed using `pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib`)
-
-## Setup
-1. Go to the Google Developer Console: https://console.developers.google.com/
-2. Create a new project or select an existing one.
-3. Enable the Google Drive API for the project.
-4. Create credentials for your project (OAuth 2.0 client ID) and download the `credentials.json` file.
-5. Save the `credentials.json` file in the same directory as the Python script.
-
 # Google Drive File Downloader
 
 ## Description
